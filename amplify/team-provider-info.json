@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-getthattrim-dev-121431-authRole",
+      "UnauthRoleArn": "arn:aws:iam::125059315954:role/amplify-getthattrim-dev-121431-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::125059315954:role/amplify-getthattrim-dev-121431-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-getthattrim-dev-121431-deployment",
+      "UnauthRoleName": "amplify-getthattrim-dev-121431-unauthRole",
+      "StackName": "amplify-getthattrim-dev-121431",
+      "StackId": "arn:aws:cloudformation:us-west-2:125059315954:stack/amplify-getthattrim-dev-121431/6d173590-2a84-11ec-81c5-065d55c4dd3b",
+      "AmplifyAppId": "d3i87rse8daczm"
+    }
+  }
+}
